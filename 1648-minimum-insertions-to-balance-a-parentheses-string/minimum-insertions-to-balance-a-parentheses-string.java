@@ -16,7 +16,7 @@ class Solution {
         }
 
        }
-       return insert+ 2*stack.size(); 
+       return insert+ 2*stack.size(); //as two times insertion is happening
        
     }
 }
